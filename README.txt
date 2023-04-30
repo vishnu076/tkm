@@ -8,4 +8,4 @@ top companies. Which is a good indication of future stock value.
 
 
 
-git link: https://github.com/vishnu076/tkm
+
